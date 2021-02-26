@@ -24,6 +24,6 @@ if (navigator.vibrate) {
         });
     }
 
-    (function() {
-        statements
+    (function(ev) {
+    console.log("you can try making your own theme, also this api will drain your battery! Its too much power!")
     })();
